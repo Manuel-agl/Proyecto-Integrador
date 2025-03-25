@@ -13,5 +13,5 @@ create table Alumnos(
 	estado varchar(50), #estado donde vive el alumno
 	telefono varchar(10), #numero de celular del alumno	
 	carrera varchar(50), #carrera que cursa el alumno
-	campus varchar(50), #campus en el que el alumno estudia
+	campus varchar(50) #campus en el que el alumno estudia
 );
