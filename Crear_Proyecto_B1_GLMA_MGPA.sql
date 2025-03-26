@@ -1,0 +1,2 @@
+CREATE DATABASE Proyecto_B1_GLMA_MGPA;
+
